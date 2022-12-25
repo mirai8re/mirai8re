@@ -3,7 +3,7 @@
 
 -  &nbsp;I’m currently learning Computer Science
 -  &nbsp;I currently dont have a job 
--  &nbsp;Random fact: I :heart: animals and Gaming 
+-  &nbsp;Random fact: I 💖 animals and gaming 
 
 
 
