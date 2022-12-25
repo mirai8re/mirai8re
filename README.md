@@ -10,18 +10,18 @@
 
 
 
-<p align="left">
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirai8re&show_icons=true&locale=en&layout=compact" alt="mirai8re" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirai8re&show_icons=true&locale=en" alt="mirai8re" /></p>
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjgh&label=Profile%20views&color=8d8db0&style=plastic" alt="hjgh" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 >Connect with me:</h3>
 <p align="left">
 </p>
 
