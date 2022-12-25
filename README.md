@@ -44,11 +44,13 @@ const anna = {
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirai8re&show_icons=true&locale=en" alt="mirai8re" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirai8re&" alt="mirai8re" /></p>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirai8re&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=f5e0ff&locale=en&layout=compact" alt="mirai8re" /></p>
 
   ![](https://komarev.com/ghpvc/?username=mirai8re&color=ff69b4)
   </details> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirai8re&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=f5e0ff&locale=en&layout=compact" alt="mirai8re" /></p>
+
 
 
 <h3 >Connect with me:</h3>
