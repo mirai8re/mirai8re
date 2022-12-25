@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 -  &nbsp;I’m currently learning Computer Science
--  &nbsp;I’m currently not working  
+-  &nbsp;I currently dont have a job 
 -  &nbsp;Random fact: I :heart: animals and Gaming 
 
 
