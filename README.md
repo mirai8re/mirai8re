@@ -46,8 +46,6 @@ const anna = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirai8re&" alt="mirai8re" /></p>
 
   ![](https://komarev.com/ghpvc/?username=mirai8re&color=ff69b4)
-  [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=mirai8re.mirai8re)](https://github.com/mirai8re/visitor-badge)
-   </details> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirai8re&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=f5e0ff&locale=en&layout=compact" alt="mirai8re" /></p>
 
