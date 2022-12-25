@@ -1,6 +1,7 @@
-### Hi 👋, my name is Anna
+## Hi 👋, 
+## my name is Anna
 #### I'm a second-year student at the BSU, FAMCS
-![I'm a second-year student at the BSU, FAMCS](https://raw.githubusercontent.com/Rishit-dagli/Rishit-dagli/master/images/octocat-anime.gif)
+![I'm a second-year student at the BSU, FAMCS]
 
 
 <h3 align="left">Languages and Tools:</h3>
