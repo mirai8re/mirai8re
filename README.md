@@ -1,7 +1,6 @@
-## Hi 👋, 
+## Hi 👋 
 ## my name is Anna
 #### I'm a second-year student at the BSU, FAMCS
-![I'm a second-year student at the BSU, FAMCS]
 
 
 <h3 align="left">Languages and Tools:</h3>
