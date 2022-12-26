@@ -7,8 +7,6 @@
 
 
 
-
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -51,12 +49,12 @@ const anna = {
   </details> 
 
 
-
-
-<h3 >Connect with me:</h3>
-<p align="left">
-</p>
-
+<details>
+  <summary><b>&nbsp;Connect with me&nbsp;</b></summary>
+  <br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color=blue >](https://github.com/mirai8re)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]()  
 
+</details> 
+
+ ![](https://komarev.com/ghpvc/?username=mirai8re&color=ff69b4)
 
