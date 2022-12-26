@@ -57,5 +57,5 @@ const anna = {
 
 </details> 
 
- ![](https://komarev.com/ghpvc/?username=mirai8re&color=ff69b4)
+
 
