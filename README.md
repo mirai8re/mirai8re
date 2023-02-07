@@ -1,9 +1,7 @@
-## Hi  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+##  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
--  &nbsp;I’m currently learning Computer Science
--  &nbsp;I currently dont have a job 
--  &nbsp;Random fact: I 💖 animals and gaming 
+
 
 
 
