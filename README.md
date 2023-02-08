@@ -16,7 +16,7 @@ const anna = {
   code: [C++, Python, Java],
   tools: [Tensorflow, Pytorch],
   
-  challenge: "I am doing the #100DaysOfCode challenge focused on Java"
+  challenge: "trying to survive"
 }
 ```
   
