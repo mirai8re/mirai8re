@@ -13,9 +13,7 @@
 const anna = {
   pronouns: "she" | "her",
   position: "Belarus",
-  code: [C++, Python, Java],
-  tools: [Tensorflow, Pytorch],
-  
+
   challenge: "trying to survive"
 }
 ```
