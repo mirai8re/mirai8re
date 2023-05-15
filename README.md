@@ -34,7 +34,6 @@ const anna = {
   ![](https://komarev.com/ghpvc/?username=mirai8re&color=ff69b4)
   </details> 
 
-
 <details>
   <summary><b>&nbsp;Connect with me&nbsp;</b></summary>
   <br/>
